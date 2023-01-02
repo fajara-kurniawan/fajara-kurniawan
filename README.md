@@ -1,15 +1,18 @@
 
 <h1 align="center"><b>Hi , I'm Fajara Kurniawan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-
-
 <br>
 
+##  **What is This**
+
+It all starts with my adventures looking for remote jobs or maybe some on-site jobs that have relocation benefit from my current country (Indonesia) to Europe (yes, i know it's friggin far away, well man can dream) because of some personal circumstances. after some times, I found out that my chances are super slim the way it is. So i figure out that i need to show up some skills and achievement to increase the odds a little bit even called for interview is massive boost. HOWEVER, all of my current and previous works are super sensitive data and any work upon that is highly classified thus i cannot easily share it. So there it is for the quick history.
+
+<br>
 
 
 	
 ##  **About me**
 
+Most of the time, i work as machine learning engineer which work in data pipeline, building machine learning models and its implementation as a service.  Well versed in multiple database technology, cloud especially AWS and ML operations.
 
 <br>
 
