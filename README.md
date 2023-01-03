@@ -21,8 +21,17 @@ Most of the time, i work as machine learning engineer which work in data pipelin
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+
+##  **Dataset**
+
+Since most of my work is using confidential data, here is some synthetic dataset that i reconstruct and carefully masked to resembles dataset that i worked on although they wouldn't be 100% identical even all the number used are rearrage albeit there is some relevance.
+
+*IT Support Response SLA*
+
+This dataset contains performance especially viewed from time-related constarint/ SLA from IT Support / Helpdesk to customer.
+
+
+##  **Skills**
 
 <p align="center">
 
