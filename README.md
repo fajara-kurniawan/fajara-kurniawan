@@ -21,16 +21,6 @@ Most of the time, i work as machine learning engineer which work in data pipelin
 
 <br>
 
-
-##  **Dataset**
-
-Since most of my work is using confidential data, here is some synthetic dataset that i reconstruct and carefully masked to resembles dataset that i worked on although they wouldn't be 100% identical even all the number used are rearrage albeit there is some relevance.
-
-*IT Support Response SLA*
-
-This dataset contains performance especially viewed from time-related constarint/ SLA from IT Support / Helpdesk to customer.
-
-
 ##  **Skills**
 
 <p align="center">
@@ -40,10 +30,28 @@ This dataset contains performance especially viewed from time-related constarint
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
-
 </p>
 
+
+##  **Dataset**
+
+Since most of my work is using confidential data, here is some synthetic dataset that i reconstruct and carefully masked to resembles dataset that i worked on although they wouldn't be 100% identical even all the number used are rearrage albeit there is some relevance.
+
+*IT Support Response SLA*
+
+This dataset contains performance especially viewed from time-related constarint/ SLA from IT Support / Helpdesk to customer.
+
 <br>
+
+##  **Pitch or Presentation**
+
+In this section, i will briefly show some modified presentation or some pitch that i used to make in my works.
+
+
+*IT Support Response SLA*
+
+This dataset contains performance especially viewed from time-related constarint/ SLA from IT Support / Helpdesk to customer.
+
 <br>
 
 -----
