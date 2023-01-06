@@ -55,10 +55,6 @@ This is example of presentation that i use when doing machine learning impact to
 https://user-images.githubusercontent.com/64695372/211029432-271d32d0-4bf3-4092-82a9-2fef4200d93d.mp4
 
 
-*IT Support Response SLA*
-
-This dataset contains performance especially viewed from time-related constarint/ SLA from IT Support / Helpdesk to customer.
-
 <br>
 
 -----
