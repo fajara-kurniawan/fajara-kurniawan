@@ -52,8 +52,6 @@ In this section, i will briefly show some modified presentation or some pitch th
 
 This is example of presentation that i use when doing machine learning impact to ServiceNow Helpdesk SLA to top management.
 
-https://user-images.githubusercontent.com/64695372/211029432-271d32d0-4bf3-4092-82a9-2fef4200d93d.mp4
-
 ![service now response 2](https://user-images.githubusercontent.com/64695372/211030422-ee5265ef-c026-4069-bfd8-40548bc21d00.gif)
 
 
