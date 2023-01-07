@@ -51,8 +51,9 @@ In this section, i will briefly show some modified presentation or some pitch th
 *IT Support Response SLA*
 
 This is example of presentation that i use when doing machine learning impact to ServiceNow Helpdesk SLA to top management.
-<p align="center">
-![service now response - small](https://user-images.githubusercontent.com/64695372/211128999-a011bfef-40dc-49bf-8efb-e18f96d637d2.gif)
+<p align="center">	
+<img src="https://user-images.githubusercontent.com/64695372/211128999-a011bfef-40dc-49bf-8efb-e18f96d637d2.gif" alt="service now response" />
+<!-- ![service now response - small](https://user-images.githubusercontent.com/64695372/211128999-a011bfef-40dc-49bf-8efb-e18f96d637d2.gif) -->
 </p>
 
 <br>
